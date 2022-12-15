@@ -1,12 +1,12 @@
-## 🐍&nbsp; Python Blumenau &nbsp;🐍
+![](./img/banner.png)
 
-> Comunidade de desenvolvedores de Python em Blumenau, SC.
+<span align="center">
 
-Abaixo há alguns links que podem ser interessantes para você:
+<h3>Comunidade de desenvolvedores de Python em Blumenau, SC</h3>
 
-- 🌐&nbsp; Nosso [site](https://blumenau.sc.python.org.br/) onde compartilhamos nossos encontros, projetos e fotos.
-- 🗣️&nbsp; O [Telegram](https://t.me/GruPyBnu) é nosso principal canal de discussões.
-- 💬&nbsp; Também estamos no [Slack](https://hackerspaceblumenau.slack.com/messages/C6U70HXK4) do Hackerspace Blumenau.
-- 📷&nbsp; Não deixe de nos seguir no [Instagram](https://www.instagram.com/grupyblumenau/)!
+<p><a href="https://blumenau.sc.python.org.br/" target="_blank">Site</a> | <a href="https://www.instagram.com/grupyblumenau/" target="_blank">Instagram</a> | <a href="https://t.me/GruPyBnu" target="_blank">Telegram</a> | <a href="https://hackerspaceblumenau.slack.com/messages/C6U70HXK4" target="_blank">Slack</a></p>
 
-Sinta-se a vontade para **contribuir** nos projetos compartilhados aqui! 😉
+<br>
+<p>Sinta-se a vontade para <strong>contribuir</strong> nos projetos compartilhados aqui! 😉</p>
+
+</span>
