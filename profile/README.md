@@ -1,4 +1,4 @@
-![](./img/banner.png)
+![](https://github.com/pythonbnu/.github/raw/main/profile/img/banner.png)
 
 <span align="center">
 
